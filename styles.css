@@ -1,3 +1,15 @@
+/* Línea divisoria gruesa para separar secciones */
+.section-divider {
+    border: none;
+    border-top: 6px solid #fff;
+    border-radius: 4px;
+    width: 70%;
+    margin: 2.5em auto 2.5em auto;
+    box-shadow: 0 4px 18px 0 rgba(0,0,0,0.13);
+    opacity: 0.95;
+    background: transparent;
+    display: block;
+}
 
 
 /* Clase para usar la fuente Themysion en títulos */
